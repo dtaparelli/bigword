@@ -2,6 +2,8 @@
 
 Big Word turns your Android screen into a sign. Type a message and tap **BIG** to show it full screen.
 
+[Get it on Google Play](https://play.google.com/store/apps/details?id=br.com.taparelli.bigword) · [Download the v4.0 APK](https://github.com/dtaparelli/bigword/releases/download/v4.0/bigword-v4.0.apk)
+
 - Fit the whole message on screen, scroll it across, or show one word at a time.
 - Pick a font and color palette, adjust the speed, or turn on Blink.
 - Save messages as favorites for later.
