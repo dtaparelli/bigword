@@ -1,0 +1,26 @@
+repository: https://github.com/dtaparelli/bigword
+release_source: https://github.com/dtaparelli/bigword
+metadata_sources:
+  - github
+name: Big Word
+summary: Turn your Android screen into a sign with large text, colors and animations.
+description: |
+  Type a message and tap BIG to show it full screen. Use Big Word when you
+  want your message to be seen across a room or in a noisy place.
+
+  - Fit the whole message on screen, scroll it across, or show one word at a time.
+  - Choose from ten fonts and twelve color palettes.
+  - Adjust the animation speed or turn on Blink.
+  - Save messages as favorites for later.
+
+  Works offline. Messages, favorites and settings stay on your device.
+  Requires Android 7.0 or newer. Open source under the MIT License.
+license: MIT
+website: https://github.com/dtaparelli/bigword
+tags:
+  - tools
+icon: ./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+images:
+  - ./screenshots/01-main-screen.jpg
+  - ./screenshots/02-large-text.jpg
+  - ./screenshots/03-font-and-color.jpg
