@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Big Word</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="speed">Speed</string>
+    <string name="speed_percent">SPEED %1$d%%</string>
+    <string name="information">Information</string>
+    <string name="message">MESSAGE</string>
+    <string name="enter_text">Enter text</string>
+    <string name="clear_message">Clear message</string>
+    <string name="favorites">Favorites</string>
+    <string name="big" translatable="false">BIG</string>
+    <string name="mode">MODE</string>
+    <string name="blink">Blink</string>
+    <string name="color">Color</string>
+    <string name="font">Font</string>
+    <string name="close">Close</string>
+    <string name="app_version">Big Word v%1$s</string>
+    <string name="created_by">created by</string>
+    <string name="author" translatable="false">Daniel Taparelli</string>
+    <string name="email_author">Email Daniel Taparelli</string>
+    <string name="rate_this_app">rate this app</string>
+    <string name="rate_app_description">Rate this app</string>
+    <string name="zap_me_a_beer">zap me a beer</string>
+    <string name="copy_lightning_address">Copy Lightning address</string>
+    <string name="lightning_address">Lightning address</string>
+    <string name="lightning_copied">Lightning address copied to the clipboard:</string>
+    <string name="no_link_handler">No app can open this link</string>
+    <string name="save">Save</string>
+    <string name="no_favorites">No favorites yet.</string>
+    <string name="delete_favorite">Delete favorite %1$s</string>
+    <string name="fit_screen">Fit Screen</string>
+    <string name="carousel">Carousel</string>
+    <string name="word_by_word">Word by Word</string>
+    <string name="default_message">Hello!</string>
+    <string name="selected_mode">✓ %1$s</string>
+    <string name="picker_description">%1$s, %2$s</string>
+</resources>
