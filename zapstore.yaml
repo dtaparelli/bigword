@@ -22,5 +22,8 @@ tags:
 icon: ./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
 images:
   - ./screenshots/01-main-screen.jpg
+  - ./screenshots/04-color-palettes.jpg
+  - ./screenshots/05-font-picker.jpg
   - ./screenshots/02-large-text.jpg
+  - ./screenshots/06-portrait-message.jpg
   - ./screenshots/03-font-and-color.jpg
